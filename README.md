@@ -67,6 +67,7 @@ SecuriBot
 
 #### Abstract
 A recent study titled “The Effect of Police Response Time on Crime Clearance Rates” provided empirical data that indicated that quicker response by Police resulted in an ~20% increased clearance rate. While multiple applications have surfaced that provide one or other forms of security such as sending an SOS or text message to first responders, most of the applications underutilize the high-speed network connectivity offered for mobile devices. The proposed application aims to provide mobile users not just easy access to emergency services, but also enhance the process of crisis handling and conviction of the accused. With the help of live video, audio and GPS tracking information, the first responders have more insight into what is to expect to go into a situation.
+
 To make the application platform-independent, React Native will be used to develop the front end mobile application. The backend system will be developed in Node+Express and the data captured by the user will be stored in an Amazon S3 bucket. The user information, with embedded incident reports and location of the incident, will be stored in a Relational Database System.
  
 #### Project idea description
