@@ -24,38 +24,45 @@ Use predictive analytics to evaluate the best fuel economy for different fuel ty
 - Docker
 - Amazon AWS – ECS, ECR, EC2
  
-Idea No 2
+## Idea No 2
  
-Project Title: Security bot
+#### Project Title
+Security bot
  
-Project idea description: This will be a J2ME security based Mobile Application. It will allow users to escape from any troublesome situation. Situations, like if a user is attacked by any thief or if he watches any robbery incident in front of him/her. In that scenario, he needs to start or click the Security Bot Mobile App. Security Bot would automatically send the user's location and video clips of the incident to the Security Servers. Once a user starts the app, Security people will get a trigger and based on the GPS details and videos, it would be easy for them to locate the victim.
+#### Project idea description
+This will be a J2ME security based Mobile Application. It will allow users to escape from any troublesome situation. Situations, like if a user is attacked by any thief or if he watches any robbery incident in front of him/her. In that scenario, he needs to start or click the Security Bot Mobile App. Security Bot would automatically send the user's location and video clips of the incident to the Security Servers. Once a user starts the app, Security people will get a trigger and based on the GPS details and videos, it would be easy for them to locate the victim.
 This is the initial idea of the project we can add more functionalities into the project.
-Goal of the project: Safety of every individual.
+
+#### Goal of the project
+Safety of every individual.
  
-Technology stack:    
-React Native
-Nodejs
-Express
-MongoDB
-Amazon AWS – EC2
+#### Technology stack:    
+- React Native
+- Nodejs
+- Express
+- MongoDB
+- Amazon AWS – EC2
  
-Idea No 3
+## Idea No 3
  
-Project Title: Contagious Diseases Predictor
+#### Project Title
+Contagious Diseases Predictor
  
-Project idea description: The basic idea is to show how many patients/children have been diagnosed with contagious diseases over the years and to predict the same in future so that people will be more aware of the statistics and take these vaccinations seriously. The contagious diseases could be smallpox, polio, measles, mumps, rubella, rubella, hep A and we can build this at zip or state level. 
+#### Project idea description 
+The basic idea is to show how many patients/children have been diagnosed with contagious diseases over the years and to predict the same in future so that people will be more aware of the statistics and take these vaccinations seriously. The contagious diseases could be smallpox, polio, measles, mumps, rubella, rubella, hep A and we can build this at zip or state level. 
  
-Data Source : https://www.kaggle.com/pitt/contagious-diseases/data
-This is the initial idea of the project we can add more functionalities into the project.
+#### Data Source 
+https://www.kaggle.com/pitt/contagious-diseases/data
  
-Goal of the project: To ensure everyone should be cautious and aware of the contagious diseases and proactively participate in getting their vaccinations done.
+#### Goal of the project
+To ensure everyone should be cautious and aware of the contagious diseases and proactively participate in getting their vaccinations done.
  
-Technology stack: 
-Regression/Machine Learning
-Nodejs
-Express
-MongoDB
-Amazon AWS – EC2
+#### Technology stack 
+- Regression/Machine Learning
+- Nodejs
+- Express
+- MongoDB
+- Amazon AWS – EC2
 
  
  
