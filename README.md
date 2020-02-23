@@ -75,7 +75,7 @@ This will be a React Native security app for mobile. It will provide assistance 
 #### Goal of the project
 Improve user safety and emergency service response time through a mobile application.
  
-#### Technology stack:    
+#### Technology stack    
 - React Native
 - Nodejs
 - Express
