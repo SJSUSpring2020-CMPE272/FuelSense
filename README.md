@@ -46,5 +46,4 @@ Use Support Vector Machines to evaluate the best fuel economy for different fuel
 ## Team Members
 1. Dimitrie Milinovich
 2. Pranav Karmalkar
-3. Ritu Singh
-4. Swapnil Parihar
+3. Swapnil Parihar
