@@ -2,10 +2,10 @@ import React from "react";
 import TopNav from "./NavBar/top-nav";
 import SideNav from "./NavBar/side-nav";
 import FilterContainer from "./Filter/FilterContainer";
-//import Plotly from './Graphs/GraphMain.js';
+import Plotly from "./Graphs/GraphMain.js";
 
 class App extends React.Component {
-  state = { sideBar: false, filterId: 2, filterValueTicked: "" };
+  state = { sideBar: false, filterId: 0, filterValueTicked: "" };
 
   onSideBarClose = (boolval) => {
     this.setState({ sideBar: boolval });
@@ -20,16 +20,15 @@ class App extends React.Component {
   };
 
   getFilterId = (idArray) => {
-    //console.log(idArray);
     this.setState({ filterId: idArray });
   };
 
   getFilterToggle = (filterData) => {
-    //console.log(filterData);
     this.setState({ filterValueTicked: filterData });
   };
 
   render() {
+    console.log(this.state.filterValueTicked);
     return (
       <div>
         <SideNav
@@ -44,7 +43,10 @@ class App extends React.Component {
               filterId={this.state.filterId}
               getFilterToggle={this.getFilterToggle}
             />
-            {/*<Plotly filterId = {this.state.filterId} filterValueTicked = {this.state.filterValueTicked} />*/}
+            <Plotly
+              filterId={this.state.filterId}
+              filterValueTicked={this.state.filterValueTicked}
+            />
           </div>
           <footer class='page-footer page-footer-custom font-small blue'>
             <div class='footer-copyright text-center py-3'>
