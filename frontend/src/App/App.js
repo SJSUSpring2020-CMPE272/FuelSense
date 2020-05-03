@@ -5,7 +5,7 @@ import FilterContainer from "./Filter/FilterContainer";
 import Plotly from "./Graphs/GraphMain.js";
 
 class App extends React.Component {
-  state = { sideBar: false, filterId: 0, filterValueTicked: "" };
+  state = { sideBar: false, filterId: 1, filterValueTicked: "" };
 
   onSideBarClose = (boolval) => {
     this.setState({ sideBar: boolval });
@@ -36,9 +36,9 @@ class App extends React.Component {
           getFilterId={this.getFilterId}
           onClick={this.onSideBarClose}
         />
-        <div id='content container'>
+        <div id="content container">
           <TopNav onClick={this.onSideBarOpen} />
-          <div className='container-fluid row space-t-40'>
+          <div className="container-fluid row space-t-40">
             <FilterContainer
               filterId={this.state.filterId}
               getFilterToggle={this.getFilterToggle}
@@ -48,10 +48,10 @@ class App extends React.Component {
               filterValueTicked={this.state.filterValueTicked}
             />
           </div>
-          <footer class='page-footer page-footer-custom font-small blue'>
-            <div class='footer-copyright text-center py-3'>
+          <footer class="page-footer page-footer-custom font-small blue">
+            <div class="footer-copyright text-center py-3">
               © 2019 Copyright:
-              <a href='#' style={{ color: "#FFF" }}>
+              <a href="#" style={{ color: "#FFF" }}>
                 FuelSense
               </a>
             </div>
