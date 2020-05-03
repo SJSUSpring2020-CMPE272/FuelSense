@@ -30,7 +30,7 @@ Use Random Forest to evaluate the best fuel economy for different fuel types con
 
 
 ## Architecture Diagram
-<img src = "images/Architecture_Diagram.jpg" width="1000">
+<img src = "images/Architecture_Diagram.jpg" width="1001">
 
 ## Deployment Schema
 <img src = "images/Deployment_Diagram.jpg" width="1000">
