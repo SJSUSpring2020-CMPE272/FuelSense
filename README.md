@@ -1,48 +1,68 @@
 # FuelSense
-A random forest based fuel economy analysis tool
+
+A regression based fuel economy analysis tool
+
+Project Demo Link : http://184.172.252.83:31402
 
 ## Abstract
+
 Modern automotive companies spend large sums of money trying to meet government-regulated standards for fuel-efficiency. Finding optimal conditions for an existing design to be tested under is far cheaper than redesigning an engine for higher efficiency. By creating predictive software capable of estimating the conditions of optimal function, car corporations could save substantial amounts of money on redesigns.
- 
-Because accurate predictions need to be made with a relatively small dataset, neural nets are unlikely to be effective for this task. Instead, due to the consistency and cleanliness of our data, we believe Random Forest will be highly effective at building a predictive model.
- 
-Additionally, because Random Forest predictions are relatively fast compared to neural nets, a brute force approach can be used for approximating optimal values for missing variables.
 
-## Project Idea Description 
-The Corporate Average Fuel Economy (CAFE) standards set by the Secretary of Transportation and EPA regulation require all new vehicles to meet a certain fuel efficiency standard. The current automotive industry heavily relies on statistics such as fuel economy to effectively market their product and to determine product feasibility for their future products.
- 
-Our project aims to create an application that will enable the manufacturers to analyze mileage for different types of fuels and road conditions. The application will be able to set various parameters and predict the mileage for a fuel type in different conditions. This will help the enterprise in marketing their products and obtaining approval from the EPA.
+Because accurate predictions need to be made with a relatively small dataset, neural nets were unlikely to be effective for this task. Among various regression algorithms that were tried, Random Forest resulted in providing a highly effective predictive model. Random Forest predictions are relatively fast compared to neural nets and they also work well with inconsistent scatter of the data, so they proved to be highly accurate. Also, due to the sparseness of the given dataset KNN was used for approximating optimal values for missing variables.
 
-#### Data Source  
+The project creates an application that enables automotive manufacturers to analyze mileage for different types of fuels and road conditions. Based on input parameters, the application predicts the mileage for a fuel type in different conditions without the need to perform actual physical testing. The project also aims to study the applications of chatbots as a Web navigation tool.
+
+#### Data Source
+
 https://www.kaggle.com/anderas/car-consume#measurements.csv
- 
- 
-## Goal of the project
-Use Random Forest to evaluate the best fuel economy for different fuel types considering a variety of environmental factors and road conditions.
 
-## Hill Statement 
+## Hill Statement
 
-> *Who: Automotive manufactures* 
+> _Who: Automotive manufactures_
 
-> *What: To gauge analyze the effect of various environmental factors and road conditions on an automotive engine fuel efficiency*
+> _What: To gauge analyze the effect of various environmental factors and road conditions on an automotive engine fuel efficiency_
 
-> *WoW Factor: A manufacturer independent analytical tool working with a small input dataset to determine optimal testing condtion for an automtoive engine*
-
+> _WoW Factor: A manufacturer independent analytical tool working with a small input dataset to determine optimal testing condtion for an automtoive engine_
 
 ## Architecture Diagram
+
 <img src = "images/Architecture_Diagram.jpg" width="1001">
 
-## Deployment Schema
-<img src = "images/Deployment_Diagram.jpg" width="1000">
+## Implementation Snippets
+
+#### 5D View of the Dataset to identify Data-Outliers
+
+<img src = "images/5D_plots.JPG" width="1000">
+
+#### Advanced Machine Learning analysis User Interface
+
+<img src = "images/Advanced_ML_predictions.jpg" width="1000">
+
+#### Time trending Analysis User Interface
+
+<img src = "images/Timetrending.jpg" width="1000">
+
+#### Fuel Type Analysis User Interface
+
+<img src = "images/Fuel_analysis.JPG" width="1000">
+
+#### IBM Watson Chatbot screenshots
+
+<img src = "images/Combo.jpg" width="1000">
+
+#### Kubernetes Deployment screenshot
+
+<img src = "images/Kubernetes.png" width="1000">
 
 ## Technology Stack
-- React
-- Plotly.js
-- Flask
-- Python - scikit-learn, NumPy, Pandas, PyPI
-- Docker
-- Amazon AWS – ECS, ECR, EC2
+
+- Frontend : React, Plotly.js
+- Middleware : Python - Flask
+- Machine learning : Python - scikit-learn, NumPy, Pandas, PyPI
+- Support technologies : IBM Watson Chatbot
+- Deployment : IBM Cloud, Docker, Kubernetes
 
 ## Team Members
+
 1. Pranav Karmalkar
 2. Swapnil Parihar
