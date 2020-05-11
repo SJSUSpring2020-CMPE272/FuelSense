@@ -50,7 +50,7 @@ class App extends React.Component {
           </div>
           <footer class="page-footer page-footer-custom font-small blue">
             <div class="footer-copyright text-center py-3">
-              © 2019 Copyright:
+              © 2020 Copyright:
               <a href="#" style={{ color: "#FFF" }}>
                 FuelSense
               </a>
