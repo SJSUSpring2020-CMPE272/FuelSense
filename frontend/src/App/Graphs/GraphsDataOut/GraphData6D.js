@@ -67,72 +67,15 @@ class PlotApp extends React.Component {
               data={this.state.data}
               layout={{
                 title:
-                  "Dataoutlier - 6D Plot <br> Red:Outlier, Sphere:Loaded, Diamond:Ballast",
+                  "Dataoutlier - 5D Plot <br> Red:Refuel, Sphere:SP95 E10, Diamond:SP98",
                 showlegend: true,
                 scene: {
                   xaxis: { title: { text: "Fuel" } },
                   yaxis: { title: { text: "Speed" } },
-                  zaxis: { title: { text: "RPM" } },
+                  zaxis: { title: { text: "Distance" } },
                 },
               }}
             />
-          </div>
-        </div>
-        <div className='row' style={{ paddingBottom: "10px" }}>
-          <div
-            className='col-lg-12 col-md-12 col-sm-12 col-xs-12 TableClassExt'
-            id=''
-          >
-            <table class='table'>
-              <thead class='thead-light'>
-                <tr>
-                  <th>Message</th>
-                  <th>Feedback</th>
-                  <th>Comment</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>RPM is higher than expected</td>
-                  <td>
-                    <input name='Correct' type='radio' />
-                    <label for='Correct'>Correct</label>
-                    <br />
-                    <input name='Correct' type='radio' />
-                    <label for='Correct'>Incorrect</label>
-                  </td>
-                  <td>
-                    <textarea></textarea>
-                  </td>
-                </tr>
-                <tr>
-                  <td>Fuel Consumption is higher than expected</td>
-                  <td>
-                    <input name='Correct' type='radio' />
-                    <label for='Correct'>Correct</label>
-                    <br />
-                    <input name='Correct' type='radio' />
-                    <label for='Correct'>Incorrect</label>
-                  </td>
-                  <td>
-                    <textarea></textarea>
-                  </td>
-                </tr>
-                <tr>
-                  <td>Slip is lower than expected</td>
-                  <td>
-                    <input name='Correct' type='radio' />
-                    <label for='Correct'>Correct</label>
-                    <br />
-                    <input name='Correct' type='radio' />
-                    <label for='Correct'>Incorrect</label>
-                  </td>
-                  <td>
-                    <textarea></textarea>
-                  </td>
-                </tr>
-              </tbody>
-            </table>
           </div>
         </div>
       </div>

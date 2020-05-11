@@ -576,11 +576,11 @@ class MainContainer extends React.Component {
 
   render() {
     return (
-      <div className="col-lg-10 col-md-9 col-sm-12 col-xs-12" id="">
-        <div className="row">
+      <div className='col-lg-10 col-md-9 col-sm-12 col-xs-12' id=''>
+        <div className='row'>
           <div
-            className="col-lg-8 col-md-7 col-sm-12 col-xs-12 GraphClassExt"
-            id=""
+            className='col-lg-8 col-md-7 col-sm-12 col-xs-12 GraphClassExt'
+            id=''
           >
             <PlotApp
               data={this.state.data}
@@ -589,265 +589,265 @@ class MainContainer extends React.Component {
             />
           </div>
           <div
-            className="col-lg-4 col-md-5 col-sm-12 col-xs-12 PointDetailsYAxis"
-            id=""
+            className='col-lg-4 col-md-5 col-sm-12 col-xs-12 PointDetailsYAxis'
+            id=''
           >
             <h4 style={{ paddingBottom: "20px" }}>Advanced Analysis</h4>
-            <form action="" onSubmit={this.handleSubmit}>
-              <div className="form-control ">
+            <form action='' onSubmit={this.handleSubmit}>
+              <div className='form-control '>
                 <h5>Select parameters to analyze</h5>
-                <div class="form-check form-check-inline">
+                <div class='form-check form-check-inline'>
                   <input
-                    class="form-check-input"
-                    type="checkbox"
-                    id="inlineCheckbox1"
-                    value="speed"
+                    class='form-check-input'
+                    type='checkbox'
+                    id='inlineCheckbox1'
+                    value='speed'
                     onClick={this.disablenable}
                   />
-                  <label class="form-check-label" for="inlineCheckbox1">
+                  <label class='form-check-label' for='inlineCheckbox1'>
                     Speed
                   </label>
                 </div>
-                <div class="form-check form-check-inline">
+                <div class='form-check form-check-inline'>
                   <input
-                    class="form-check-input"
-                    type="checkbox"
-                    id="inlineCheckbox2"
-                    value="distance"
+                    class='form-check-input'
+                    type='checkbox'
+                    id='inlineCheckbox2'
+                    value='distance'
                     onClick={this.disablenable}
                   />
-                  <label class="form-check-label" for="inlineCheckbox2">
+                  <label class='form-check-label' for='inlineCheckbox2'>
                     Distance
                   </label>
                 </div>
-                <div class="form-check form-check-inline">
+                <div class='form-check form-check-inline'>
                   <input
-                    class="form-check-input"
-                    type="checkbox"
-                    id="inlineCheckbox3"
-                    value="temp"
+                    class='form-check-input'
+                    type='checkbox'
+                    id='inlineCheckbox3'
+                    value='temp'
                     onClick={this.disablenable}
                   />
-                  <label class="form-check-label" for="inlineCheckbox3">
+                  <label class='form-check-label' for='inlineCheckbox3'>
                     Outside Temp
                   </label>
                 </div>
-                <div class="form-check form-check-inline">
+                <div class='form-check form-check-inline'>
                   <input
-                    class="form-check-input"
-                    type="checkbox"
-                    id="inlineCheckbox4"
-                    value="type"
+                    class='form-check-input'
+                    type='checkbox'
+                    id='inlineCheckbox4'
+                    value='type'
                     onClick={this.disablenable}
                   />
-                  <label class="form-check-label" for="inlineCheckbox3">
+                  <label class='form-check-label' for='inlineCheckbox3'>
                     Fuel Type
                   </label>
                 </div>
-                <div class="form-check form-check-inline">
+                <div class='form-check form-check-inline'>
                   <input
-                    class="form-check-input"
-                    type="checkbox"
-                    id="inlineCheckbox5"
-                    value="ac"
+                    class='form-check-input'
+                    type='checkbox'
+                    id='inlineCheckbox5'
+                    value='ac'
                     onClick={this.disablenable}
                   />
-                  <label class="form-check-label" for="inlineCheckbox3">
+                  <label class='form-check-label' for='inlineCheckbox3'>
                     AC
                   </label>
                 </div>
-                <div class="form-check form-check-inline">
+                <div class='form-check form-check-inline'>
                   <input
-                    class="form-check-input"
-                    type="checkbox"
-                    id="inlineCheckbox6"
-                    value="rain"
+                    class='form-check-input'
+                    type='checkbox'
+                    id='inlineCheckbox6'
+                    value='rain'
                     onClick={this.disablenable}
                   />
-                  <label class="form-check-label" for="inlineCheckbox3">
+                  <label class='form-check-label' for='inlineCheckbox3'>
                     Rain
                   </label>
                 </div>
-                <div class="form-check form-check-inline">
+                <div class='form-check form-check-inline'>
                   <input
-                    class="form-check-input"
-                    type="checkbox"
-                    id="inlineCheckbox6"
-                    value="sun"
+                    class='form-check-input'
+                    type='checkbox'
+                    id='inlineCheckbox6'
+                    value='sun'
                     onClick={this.disablenable}
                   />
-                  <label class="form-check-label" for="inlineCheckbox3">
+                  <label class='form-check-label' for='inlineCheckbox3'>
                     Sun
                   </label>
                 </div>
               </div>
 
-              <div className="form-control">
+              <div className='form-control'>
                 <h5>Speed</h5>
                 <InputRange
-                  className="inputRange"
+                  className='inputRange'
                   //formatLabel={value => `${value}cm`}
                   maxValue={100}
                   minValue={10}
                   value={this.state.valueSpeed}
                   onChange={(valueSpeed) => this.setState({ valueSpeed })}
-                  name="speed"
+                  name='speed'
                   disabled={this.state.boolSpeed}
                 />
               </div>
-              <div className="form-control">
+              <div className='form-control'>
                 <h5>Distance</h5>
                 <InputRange
-                  className="inputRange"
+                  className='inputRange'
                   //formatLabel={value => `${value}cm`}
                   maxValue={216}
                   minValue={10}
                   value={this.state.valueDistance}
                   onChange={(valueDistance) => this.setState({ valueDistance })}
-                  name="beaufort"
+                  name='beaufort'
                   disabled={this.state.boolDistance}
                 />
               </div>
-              <div className="form-control">
+              <div className='form-control'>
                 <h5>Outside Temperature</h5>
                 <InputRange
-                  className="inputRange"
+                  className='inputRange'
                   //formatLabel={value => `${value}cm`}
                   maxValue={40}
                   minValue={-10}
                   value={this.state.valueTemp}
                   onChange={(valueTemp) => this.setState({ valueTemp })}
-                  name="Temp"
+                  name='Temp'
                   disabled={this.state.boolTemp}
                 />
               </div>
-              <div className="form-control" style={{ paddingTop: "10px" }}>
+              <div className='form-control' style={{ paddingTop: "10px" }}>
                 <h5>Fuel Type</h5>
-                <div class="form-check form-check-inline">
+                <div class='form-check form-check-inline'>
                   <input
-                    class="form-check-input"
-                    name="TypeOptions"
-                    type="radio"
-                    id="inlineRadio5"
-                    value="SP98"
+                    class='form-check-input'
+                    name='TypeOptions'
+                    type='radio'
+                    id='inlineRadio5'
+                    value='SP98'
                     disabled={this.state.boolType}
                     onClick={this.onRadioClick}
                   />
-                  <label class="form-check-label" for="inlineRadio5">
+                  <label class='form-check-label' for='inlineRadio5'>
                     SP 98
                   </label>
                 </div>
-                <div class="form-check form-check-inline">
+                <div class='form-check form-check-inline'>
                   <input
-                    class="form-check-input"
-                    name="TypeOptions"
-                    type="radio"
-                    id="inlineRadio6"
-                    value="SP95"
+                    class='form-check-input'
+                    name='TypeOptions'
+                    type='radio'
+                    id='inlineRadio6'
+                    value='SP95'
                     disabled={this.state.boolType}
                     onClick={this.onRadioClick}
                   />
-                  <label class="form-check-label" for="inlineRadio6">
+                  <label class='form-check-label' for='inlineRadio6'>
                     SP 95 E10
                   </label>
                 </div>
               </div>
-              <div className="form-control" style={{ paddingTop: "10px" }}>
+              <div className='form-control' style={{ paddingTop: "10px" }}>
                 <h5>AC or Non-AC</h5>
-                <div class="form-check form-check-inline">
+                <div class='form-check form-check-inline'>
                   <input
-                    class="form-check-input"
-                    name="ACOptions"
-                    type="radio"
-                    id="inlineRadio7"
-                    value="AC"
+                    class='form-check-input'
+                    name='ACOptions'
+                    type='radio'
+                    id='inlineRadio7'
+                    value='AC'
                     disabled={this.state.boolAC}
                     onClick={this.onRadioClick1}
                   />
-                  <label class="form-check-label" for="inlineRadio5">
+                  <label class='form-check-label' for='inlineRadio5'>
                     AC
                   </label>
                 </div>
-                <div class="form-check form-check-inline">
+                <div class='form-check form-check-inline'>
                   <input
-                    class="form-check-input"
-                    name="ACOptions"
-                    type="radio"
-                    id="inlineRadio6"
-                    value="NonAC"
+                    class='form-check-input'
+                    name='ACOptions'
+                    type='radio'
+                    id='inlineRadio6'
+                    value='NonAC'
                     disabled={this.state.boolAC}
                     onClick={this.onRadioClick1}
                   />
-                  <label class="form-check-label" for="inlineRadio6">
+                  <label class='form-check-label' for='inlineRadio6'>
                     Non AC
                   </label>
                 </div>
               </div>
-              <div className="form-control" style={{ paddingTop: "10px" }}>
+              <div className='form-control' style={{ paddingTop: "10px" }}>
                 <h5>Rain</h5>
-                <div class="form-check form-check-inline">
+                <div class='form-check form-check-inline'>
                   <input
-                    class="form-check-input"
-                    name="RainOptions"
-                    type="radio"
-                    id="inlineRadio5"
-                    value="Rain"
+                    class='form-check-input'
+                    name='RainOptions'
+                    type='radio'
+                    id='inlineRadio5'
+                    value='Rain'
                     disabled={this.state.boolRain}
                     onClick={this.onRadioClick2}
                   />
-                  <label class="form-check-label" for="inlineRadio5">
+                  <label class='form-check-label' for='inlineRadio5'>
                     Rain
                   </label>
                 </div>
-                <div class="form-check form-check-inline">
+                <div class='form-check form-check-inline'>
                   <input
-                    class="form-check-input"
-                    name="RainOptions"
-                    type="radio"
-                    id="inlineRadio6"
-                    value="NoRain"
+                    class='form-check-input'
+                    name='RainOptions'
+                    type='radio'
+                    id='inlineRadio6'
+                    value='NoRain'
                     disabled={this.state.boolRain}
                     onClick={this.onRadioClick2}
                   />
-                  <label class="form-check-label" for="inlineRadio6">
+                  <label class='form-check-label' for='inlineRadio6'>
                     No Rain
                   </label>
                 </div>
               </div>
-              <div className="form-control" style={{ paddingTop: "10px" }}>
+              <div className='form-control' style={{ paddingTop: "10px" }}>
                 <h5>Sunny</h5>
-                <div class="form-check form-check-inline">
+                <div class='form-check form-check-inline'>
                   <input
-                    class="form-check-input"
-                    name="SunOptions"
-                    type="radio"
-                    id="inlineRadio5"
-                    value="Sun"
+                    class='form-check-input'
+                    name='SunOptions'
+                    type='radio'
+                    id='inlineRadio5'
+                    value='Sun'
                     disabled={this.state.boolSun}
                     onClick={this.onRadioClick3}
                   />
-                  <label class="form-check-label" for="inlineRadio5">
+                  <label class='form-check-label' for='inlineRadio5'>
                     Sun
                   </label>
                 </div>
-                <div class="form-check form-check-inline">
+                <div class='form-check form-check-inline'>
                   <input
-                    class="form-check-input"
-                    name="SunOptions"
-                    type="radio"
-                    id="inlineRadio6"
-                    value="NoSun"
+                    class='form-check-input'
+                    name='SunOptions'
+                    type='radio'
+                    id='inlineRadio6'
+                    value='NoSun'
                     disabled={this.state.boolSun}
                     onClick={this.onRadioClick3}
                   />
-                  <label class="form-check-label" for="inlineRadio6">
+                  <label class='form-check-label' for='inlineRadio6'>
                     No Sun
                   </label>
                 </div>
               </div>
               <button
-                type="submit"
-                class="btn btn-primary"
+                type='submit'
+                class='btn btn-primary'
                 style={{ marginTop: "20px" }}
               >
                 Submit

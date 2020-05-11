@@ -19,7 +19,7 @@ class MainContainer extends React.Component {
     data: [],
     layout: [
       {
-        title: "Time Trending",
+        title: "Time Trending <br> Red markers - Refuel Day",
         legend: { traceorder: "reversed" },
         yaxis: { domain: [0, 0.25], title: "Outside Temp" },
         yaxis2: { domain: [0.25, 0.5], title: "Speed" },
@@ -55,7 +55,6 @@ class MainContainer extends React.Component {
         refill_gas,
       }) => {
         if (date === id) {
-          //console.log(x + " " + y);
           this.setState({
             date: date,
             distance: distance,
@@ -198,11 +197,6 @@ class MainContainer extends React.Component {
       newLayout.datarevision++;
       this.setState({ layout: newLayout });
     }
-    if (TTrendComparision == "None/TTCP" || TTrendComparision == undefined) {
-      const newLayout = Object.assign({}, this.state.layout);
-      newLayout.datarevision++;
-      this.setState({ layout: newLayout });
-    }
     this.setState({
       data: [
         {
@@ -326,7 +320,7 @@ class MainContainer extends React.Component {
               {this.state.temp_inside}{" "}
             </p>
             <p>
-              <span className='blue-color'>Temp Outside:</span> 0{" "}
+              <span className='blue-color'>Temp Outside:</span>{" "}
               {this.state.temp_outside}{" "}
             </p>
             <p>
@@ -350,63 +344,6 @@ class MainContainer extends React.Component {
               <span className='blue-color'>Refill Gas:</span>{" "}
               {this.state.refill_gas}{" "}
             </p>
-          </div>
-        </div>
-        <div className='row' style={{ paddingBottom: "10px" }}>
-          <div
-            className='col-lg-12 col-md-12 col-sm-12 col-xs-12 TableClassExt'
-            id=''
-          >
-            <table class='table'>
-              <thead class='thead-light'>
-                <tr>
-                  <th>Message</th>
-                  <th>Feedback</th>
-                  <th>Comment</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>RPM is higher than expected</td>
-                  <td>
-                    <input name='Correct' type='radio' />
-                    <label for='Correct'>Correct</label>
-                    <br />
-                    <input name='Correct' type='radio' />
-                    <label for='Correct'>Incorrect</label>
-                  </td>
-                  <td>
-                    <textarea></textarea>
-                  </td>
-                </tr>
-                <tr>
-                  <td>Fuel Consumption is higher than expected</td>
-                  <td>
-                    <input name='Correct' type='radio' />
-                    <label for='Correct'>Correct</label>
-                    <br />
-                    <input name='Correct' type='radio' />
-                    <label for='Correct'>Incorrect</label>
-                  </td>
-                  <td>
-                    <textarea></textarea>
-                  </td>
-                </tr>
-                <tr>
-                  <td>Slip is lower than expected</td>
-                  <td>
-                    <input name='Correct' type='radio' />
-                    <label for='Correct'>Correct</label>
-                    <br />
-                    <input name='Correct' type='radio' />
-                    <label for='Correct'>Incorrect</label>
-                  </td>
-                  <td>
-                    <textarea></textarea>
-                  </td>
-                </tr>
-              </tbody>
-            </table>
           </div>
         </div>
       </div>

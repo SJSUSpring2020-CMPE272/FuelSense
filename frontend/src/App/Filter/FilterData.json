@@ -16,14 +16,6 @@
               "disabled": false
             }
           ]
-        },
-        {
-          "id": "1",
-          "title": "Comparision Period",
-          "type": "radio",
-          "filterContent": [
-            { "name": "None", "abbreviation": "TTCP", "disabled": false }
-          ]
         }
       ]
     },
