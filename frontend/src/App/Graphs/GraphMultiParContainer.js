@@ -75,7 +75,7 @@ class MainContainer extends React.Component {
       ylabel = "Consume";
       model = "tempcons";
     }
-    var string = "http://localhost:5000/addroute?";
+    var string = "http://184.172.252.83:32374/addroute?";
     string =
       string +
       "model=" +
