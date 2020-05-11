@@ -22,17 +22,17 @@ class FilterButton extends React.Component {
     const type = this.props.type;
     const defaultFilters = this.props.defaultFilters;
     var i = 0;
-    console.log(defaultFilters);
-    console.log(this.props.filterContent);
+    //console.log(defaultFilters);
+    //console.log(this.props.filterContent);
     let filterOptions = this.props.filterContent.map(
       ({ name, abbreviation, disabled }) => {
         let abc = defaultFilters[abbreviation];
-        console.log(typeof abc);
-        console.log(abc);
+        //console.log(typeof abc);
+        //console.log(abc);
         /*var x = str.length;
         console.log(x);*/
         let y = abc.split("/");
-        console.log(y);
+        //console.log(y);
         var agg = y[1];
         var value = y[0];
         i++;

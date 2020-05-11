@@ -253,10 +253,12 @@ class MainContainer extends React.Component {
 
   componentWillReceiveProps(nextProps) {
     var xlabel, ylabel, x, y, dot;
+    console.log("xyz");
     var MultiPDuration = nextProps.filterValueTicked.SP95PDuration;
     var MultiPRelation = nextProps.filterValueTicked.SP95PRelation;
     this.setState({ MultiPDuration: MultiPDuration });
     this.setState({ MultiPRelation: MultiPRelation });
+
     if (MultiPDuration == "90 Days/DCS95" || MultiPDuration == undefined) {
       const newLayout = Object.assign({}, this.state.layout);
       newLayout.datarevision++;
@@ -267,7 +269,7 @@ class MainContainer extends React.Component {
       newLayout.datarevision++;
       this.setState({ layout: newLayout });
     }
-    if (MultiPDuration == "1 Year/DCS95") {
+    if (MultiPDuration == "1 Year/DCS95" || MultiPDuration == undefined) {
       const newLayout = Object.assign({}, this.state.layout);
       newLayout.datarevision++;
       this.setState({ layout: newLayout });

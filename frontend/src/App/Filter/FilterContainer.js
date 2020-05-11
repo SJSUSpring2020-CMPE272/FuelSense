@@ -12,8 +12,8 @@ class FilterContainer extends React.Component {
     MultiPDuration: "90 Days/MPDCS",
     MultiPPeriod: "Fuel Type/MPCP",
     SP95PRelation: "Speed vs Consume/RV95",
-    SP98PRelation: "Speed vs Consume/RV98",
     SP95PDuration: "1 Year/DCS95",
+    SP98PRelation: "Speed vs Consume/RV98",
     SP98PDuration: "1 Year/DCS98",
   };
 
@@ -88,7 +88,7 @@ class FilterContainer extends React.Component {
   render() {
     var Filter;
     var defaultFilters;
-    console.log(this.state);
+    //console.log(this.state);
     const data = filterData.root[this.props.filterId];
     if (this.props.filterId == 2) {
       defaultFilters = {
