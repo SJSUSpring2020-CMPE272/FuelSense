@@ -12,9 +12,9 @@ class FilterContainer extends React.Component {
     MultiPDuration: "90 Days/MPDCS",
     MultiPPeriod: "Fuel Type/MPCP",
     SP95PRelation: "Speed vs Consume/RV95",
-    SP95PDuration: "1 Year/DCS95",
+    SP95PDuration: "90 Days/DCS95",
     SP98PRelation: "Speed vs Consume/RV98",
-    SP98PDuration: "1 Year/DCS98",
+    SP98PDuration: "90 Days/DCS98",
   };
 
   getFilterFromButton = (val) => {

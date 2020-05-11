@@ -10,8 +10,8 @@
       "AC": 1.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.3555555556,
-      "refill_gas": 1.0,
+      "refill_liters": 0.0,
+      "refill_gas": 0.0,
       "date": "1-23-2019"
     },
     {
@@ -24,7 +24,7 @@
       "AC": 1.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.8444444444,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-22-2019"
     },
@@ -38,7 +38,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-21-2019"
     },
@@ -52,7 +52,7 @@
       "AC": 1.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-20-2019"
     },
@@ -66,7 +66,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-19-2019"
     },
@@ -80,7 +80,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 1.0,
-      "refill_liters": 34.3555555556,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-18-2019"
     },
@@ -94,7 +94,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 1.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-17-2019"
     },
@@ -108,7 +108,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-16-2019"
     },
@@ -122,7 +122,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 1.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-15-2019"
     },
@@ -136,7 +136,7 @@
       "AC": 1.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-14-2019"
     },
@@ -150,7 +150,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 1.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-13-2019"
     },
@@ -164,7 +164,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-12-2019"
     },
@@ -178,7 +178,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-11-2019"
     },
@@ -192,7 +192,7 @@
       "AC": 1.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 35.8777777778,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-10-2019"
     },
@@ -206,7 +206,7 @@
       "AC": 1.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.3555555556,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-9-2019"
     },
@@ -220,7 +220,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 35.8777777778,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-8-2019"
     },
@@ -234,7 +234,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.7333333333,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-7-2019"
     },
@@ -248,7 +248,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-6-2019"
     },
@@ -262,7 +262,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-5-2019"
     },
@@ -276,7 +276,7 @@
       "AC": 1.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-4-2019"
     },
@@ -290,7 +290,7 @@
       "AC": 1.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-3-2019"
     },
@@ -304,7 +304,7 @@
       "AC": 1.0,
       "rain": 0.0,
       "sun": 1.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-2-2019"
     },
@@ -318,7 +318,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-1-2019"
     },
@@ -332,7 +332,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.3555555556,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "12-31-2018"
     },
@@ -346,7 +346,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "12-30-2018"
     },
@@ -360,7 +360,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "12-29-2018"
     },
@@ -374,7 +374,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "12-28-2018"
     },
@@ -388,7 +388,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "12-27-2018"
     },
@@ -402,7 +402,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.3555555556,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "12-26-2018"
     },
@@ -416,7 +416,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 1.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "12-25-2018"
     },
@@ -430,7 +430,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "12-24-2018"
     },
@@ -444,7 +444,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "12-23-2018"
     },
@@ -458,7 +458,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 1.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "12-22-2018"
     },
@@ -472,7 +472,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.8444444444,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "12-21-2018"
     },
@@ -486,7 +486,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "12-20-2018"
     },
@@ -500,7 +500,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.3555555556,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "12-19-2018"
     },
@@ -514,7 +514,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "12-18-2018"
     },
@@ -528,7 +528,7 @@
       "AC": 0.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "12-17-2018"
     },
@@ -556,7 +556,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "12-15-2018"
     },
@@ -570,7 +570,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.3555555556,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "12-14-2018"
     },
@@ -584,7 +584,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "12-13-2018"
     },
@@ -598,7 +598,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "12-12-2018"
     },
@@ -612,7 +612,7 @@
       "AC": 1.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "12-11-2018"
     },
@@ -626,7 +626,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "12-10-2018"
     },
@@ -640,7 +640,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "12-9-2018"
     },
@@ -654,7 +654,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.7333333333,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "12-8-2018"
     },
@@ -668,7 +668,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "12-7-2018"
     },
@@ -682,7 +682,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "12-6-2018"
     },
@@ -696,7 +696,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "12-5-2018"
     },
@@ -710,7 +710,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "12-4-2018"
     },
@@ -724,7 +724,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "12-3-2018"
     },
@@ -738,7 +738,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "12-2-2018"
     },
@@ -752,7 +752,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 36.8,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "12-1-2018"
     },
@@ -766,7 +766,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 36.9111111111,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "11-30-2018"
     },
@@ -780,7 +780,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "11-29-2018"
     },
@@ -794,7 +794,7 @@
       "AC": 1.0,
       "rain": 0.0,
       "sun": 1.0,
-      "refill_liters": 34.8444444444,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "11-28-2018"
     },
@@ -808,7 +808,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 35.8777777778,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "11-27-2018"
     },
@@ -822,7 +822,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 30.9555555556,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "11-26-2018"
     },
@@ -836,7 +836,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.3555555556,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "11-25-2018"
     },
@@ -850,7 +850,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "11-24-2018"
     },
@@ -864,7 +864,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "11-23-2018"
     },
@@ -892,7 +892,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.3555555556,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "11-21-2018"
     },
@@ -906,7 +906,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "11-20-2018"
     },
@@ -920,7 +920,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 31.6222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "11-19-2018"
     },
@@ -934,7 +934,7 @@
       "AC": 0.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "11-18-2018"
     },
@@ -948,7 +948,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 1.0,
-      "refill_liters": 34.7333333333,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "11-17-2018"
     },
@@ -962,7 +962,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 1.0,
-      "refill_liters": 36.9111111111,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "11-16-2018"
     },
@@ -976,7 +976,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 36.9111111111,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "11-15-2018"
     },
@@ -990,7 +990,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 36.1,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "11-14-2018"
     },
@@ -1004,7 +1004,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 35.8777777778,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "11-13-2018"
     },
@@ -1018,7 +1018,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 30.9555555556,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "11-12-2018"
     },
@@ -1032,7 +1032,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "11-11-2018"
     },
@@ -1060,7 +1060,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 1.0,
-      "refill_liters": 30.9555555556,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "11-9-2018"
     },
@@ -1074,7 +1074,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 1.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "11-8-2018"
     },
@@ -1088,7 +1088,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 30.9555555556,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "11-7-2018"
     },
@@ -1102,7 +1102,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 31.7222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "11-6-2018"
     },
@@ -1116,7 +1116,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "11-5-2018"
     },
@@ -1130,7 +1130,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "11-4-2018"
     },
@@ -1144,7 +1144,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "11-3-2018"
     },
@@ -1158,7 +1158,7 @@
       "AC": 0.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "11-2-2018"
     },
@@ -1172,7 +1172,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "11-1-2018"
     },
@@ -1186,7 +1186,7 @@
       "AC": 1.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 31.7222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "10-31-2018"
     },
@@ -1200,7 +1200,7 @@
       "AC": 1.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "10-30-2018"
     },
@@ -1214,7 +1214,7 @@
       "AC": 1.0,
       "rain": 0.0,
       "sun": 1.0,
-      "refill_liters": 34.5111111111,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "10-29-2018"
     },
@@ -1228,7 +1228,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 1.0,
-      "refill_liters": 35.8777777778,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "10-28-2018"
     },
@@ -1242,7 +1242,7 @@
       "AC": 1.0,
       "rain": 0.0,
       "sun": 1.0,
-      "refill_liters": 30.9555555556,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "10-27-2018"
     },
@@ -1256,7 +1256,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "10-26-2018"
     },
@@ -1270,7 +1270,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.8444444444,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "10-25-2018"
     },
@@ -1284,7 +1284,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "10-24-2018"
     },
@@ -1298,7 +1298,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 1.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "10-23-2018"
     },
@@ -1312,7 +1312,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.3555555556,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "10-22-2018"
     },
@@ -1326,7 +1326,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "10-21-2018"
     },
@@ -1340,7 +1340,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.3555555556,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "10-20-2018"
     },
@@ -1354,7 +1354,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "10-19-2018"
     },
@@ -1368,7 +1368,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 1.0,
-      "refill_liters": 34.3555555556,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "10-18-2018"
     },
@@ -1382,7 +1382,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 1.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "10-17-2018"
     },
@@ -1396,7 +1396,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "10-16-2018"
     },
@@ -1410,7 +1410,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 1.0,
-      "refill_liters": 31.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "10-15-2018"
     },
@@ -1424,7 +1424,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 1.0,
-      "refill_liters": 35.8777777778,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "10-14-2018"
     },
@@ -1438,7 +1438,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 36.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "10-13-2018"
     },
@@ -1452,7 +1452,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.8444444444,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "10-12-2018"
     },
@@ -1466,7 +1466,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 35.8777777778,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "10-11-2018"
     },
@@ -1480,7 +1480,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "10-10-2018"
     },
@@ -1494,7 +1494,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "10-9-2018"
     },
@@ -1508,7 +1508,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "10-8-2018"
     },
@@ -1522,7 +1522,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "10-7-2018"
     },
@@ -1536,7 +1536,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "10-6-2018"
     },
@@ -1550,7 +1550,7 @@
       "AC": 1.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "10-5-2018"
     },
@@ -1564,7 +1564,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.3555555556,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "10-4-2018"
     },
@@ -1578,7 +1578,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "10-3-2018"
     },
@@ -1606,7 +1606,7 @@
       "AC": 1.0,
       "rain": 0.0,
       "sun": 1.0,
-      "refill_liters": 36.7666666667,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "10-1-2018"
     },
@@ -1620,7 +1620,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 36.9111111111,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "9-30-2018"
     },
@@ -1634,7 +1634,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "9-29-2018"
     },
@@ -1648,7 +1648,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "9-28-2018"
     },
@@ -1662,7 +1662,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "9-27-2018"
     },
@@ -1676,7 +1676,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "9-26-2018"
     },
@@ -1690,7 +1690,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.3555555556,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "9-25-2018"
     },
@@ -1704,7 +1704,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "9-24-2018"
     },
@@ -1718,7 +1718,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 1.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "9-23-2018"
     },
@@ -1732,7 +1732,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "9-22-2018"
     },
@@ -1746,7 +1746,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "9-21-2018"
     },
@@ -1760,7 +1760,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "9-20-2018"
     },
@@ -1774,7 +1774,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 1.0,
-      "refill_liters": 30.9555555556,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "9-19-2018"
     },
@@ -1788,7 +1788,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 35.9555555556,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "9-18-2018"
     },
@@ -1802,7 +1802,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "9-17-2018"
     },
@@ -1816,7 +1816,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "9-16-2018"
     },
@@ -1830,7 +1830,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 1.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "9-15-2018"
     },
@@ -1844,7 +1844,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "9-14-2018"
     },
@@ -1858,7 +1858,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "9-13-2018"
     },
@@ -1872,7 +1872,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "9-12-2018"
     },
@@ -1886,7 +1886,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 1.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "9-11-2018"
     },
@@ -1900,7 +1900,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 35.2111111111,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "9-10-2018"
     },
@@ -1914,7 +1914,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "9-9-2018"
     },
@@ -1928,7 +1928,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 1.0,
-      "refill_liters": 31.7222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "9-8-2018"
     },
@@ -1942,7 +1942,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 1.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "9-7-2018"
     },
@@ -1956,7 +1956,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 1.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "9-6-2018"
     },
@@ -1970,7 +1970,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "9-5-2018"
     },
@@ -1984,7 +1984,7 @@
       "AC": 0.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "9-4-2018"
     },
@@ -1998,7 +1998,7 @@
       "AC": 0.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "9-3-2018"
     },
@@ -2012,7 +2012,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "9-2-2018"
     },
@@ -2026,7 +2026,7 @@
       "AC": 0.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "9-1-2018"
     },
@@ -2040,7 +2040,7 @@
       "AC": 0.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "8-31-2018"
     },
@@ -2054,7 +2054,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 1.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "8-30-2018"
     },
@@ -2068,7 +2068,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 1.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "8-29-2018"
     },
@@ -2082,7 +2082,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 1.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "8-28-2018"
     },
@@ -2096,7 +2096,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "8-27-2018"
     },
@@ -2110,7 +2110,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "8-26-2018"
     },
@@ -2124,7 +2124,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 35.2111111111,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "8-25-2018"
     },
@@ -2138,7 +2138,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "8-24-2018"
     },
@@ -2166,7 +2166,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "8-22-2018"
     },
@@ -2180,7 +2180,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 35.2111111111,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "8-21-2018"
     },
@@ -2194,7 +2194,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "8-20-2018"
     },
@@ -2208,7 +2208,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "8-19-2018"
     },
@@ -2222,7 +2222,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "8-18-2018"
     },
@@ -2236,7 +2236,7 @@
       "AC": 1.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "8-17-2018"
     },
@@ -2250,7 +2250,7 @@
       "AC": 0.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "8-16-2018"
     },
@@ -2264,7 +2264,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 35.2111111111,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "8-15-2018"
     },
@@ -2278,7 +2278,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "8-14-2018"
     },
@@ -2292,7 +2292,7 @@
       "AC": 0.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "8-13-2018"
     },
@@ -2306,7 +2306,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 35.2111111111,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "8-12-2018"
     },
@@ -2320,7 +2320,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "8-11-2018"
     },
@@ -2334,7 +2334,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "8-10-2018"
     },
@@ -2348,7 +2348,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 31.7222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "8-9-2018"
     },
@@ -2362,7 +2362,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 1.0,
-      "refill_liters": 30.9555555556,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "8-8-2018"
     },
@@ -2376,7 +2376,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "8-7-2018"
     },
@@ -2390,7 +2390,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "8-6-2018"
     },
@@ -2404,7 +2404,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "8-5-2018"
     },
@@ -2418,7 +2418,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "8-4-2018"
     },
@@ -2432,7 +2432,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "8-3-2018"
     },
@@ -2446,7 +2446,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "8-2-2018"
     },
@@ -2460,7 +2460,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "8-1-2018"
     },
@@ -2474,7 +2474,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "7-31-2018"
     },
@@ -2488,7 +2488,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "7-30-2018"
     },
@@ -2502,7 +2502,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 31.6222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "7-29-2018"
     },
@@ -2516,7 +2516,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5111111111,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "7-28-2018"
     },
@@ -2530,7 +2530,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "7-27-2018"
     },
@@ -2544,7 +2544,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "7-26-2018"
     },
@@ -2558,7 +2558,7 @@
       "AC": 1.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "7-25-2018"
     },
@@ -2572,7 +2572,7 @@
       "AC": 1.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "7-24-2018"
     },
@@ -2586,7 +2586,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "7-23-2018"
     },
@@ -2600,7 +2600,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "7-22-2018"
     },
@@ -2614,7 +2614,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.8444444444,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "7-21-2018"
     },
@@ -2628,7 +2628,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "7-20-2018"
     },
@@ -2642,7 +2642,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "7-19-2018"
     },
@@ -2656,7 +2656,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "7-18-2018"
     },
@@ -2670,7 +2670,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 35.2111111111,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "7-17-2018"
     },
@@ -2684,7 +2684,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 35.8777777778,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "7-16-2018"
     },
@@ -2698,7 +2698,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "7-15-2018"
     },
@@ -2712,7 +2712,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 35.8777777778,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "7-14-2018"
     },
@@ -2726,7 +2726,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 35.8777777778,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "7-13-2018"
     },
@@ -2768,7 +2768,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 36.1,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "7-10-2018"
     },
@@ -2782,7 +2782,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 36.9111111111,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "7-9-2018"
     },
@@ -2796,7 +2796,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 36.1,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "7-8-2018"
     },
@@ -2810,7 +2810,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "7-7-2018"
     },
@@ -2824,7 +2824,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 36.1,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "7-6-2018"
     },
@@ -2838,7 +2838,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 35.8777777778,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "7-5-2018"
     },
@@ -2852,7 +2852,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "7-4-2018"
     },
@@ -2866,7 +2866,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 35.2111111111,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "7-3-2018"
     },
@@ -2880,7 +2880,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "7-2-2018"
     },
@@ -2894,7 +2894,7 @@
       "AC": 1.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "7-1-2018"
     },
@@ -2908,7 +2908,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "6-30-2018"
     },
@@ -2922,7 +2922,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "6-29-2018"
     },
@@ -2936,7 +2936,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 36.1,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "6-28-2018"
     },
@@ -2950,7 +2950,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "6-27-2018"
     },
@@ -2964,7 +2964,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0555555556,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "6-26-2018"
     },
@@ -2978,7 +2978,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 36.1,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "6-25-2018"
     },
@@ -2992,7 +2992,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 36.1,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "6-24-2018"
     },
@@ -3006,7 +3006,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "6-23-2018"
     },
@@ -3020,7 +3020,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 36.1,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "6-22-2018"
     },
@@ -3048,7 +3048,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 35.2111111111,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "6-20-2018"
     },
@@ -3062,7 +3062,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.8444444444,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "6-19-2018"
     },
@@ -3076,7 +3076,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.8777777778,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "6-18-2018"
     },
@@ -3090,7 +3090,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "6-17-2018"
     },
@@ -3104,7 +3104,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "6-16-2018"
     },
@@ -3118,7 +3118,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "6-15-2018"
     },
@@ -3132,7 +3132,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 35.8777777778,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "6-14-2018"
     },
@@ -3146,7 +3146,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "6-13-2018"
     },
@@ -3160,7 +3160,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 36.1,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "6-12-2018"
     },
@@ -3174,7 +3174,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 35.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "6-11-2018"
     },
@@ -3188,7 +3188,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "6-10-2018"
     },
@@ -3202,7 +3202,7 @@
       "AC": 0.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 35.8777777778,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "6-9-2018"
     },
@@ -3216,7 +3216,7 @@
       "AC": 0.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 34.8444444444,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "6-8-2018"
     },
@@ -3230,7 +3230,7 @@
       "AC": 0.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "6-7-2018"
     },
@@ -3244,7 +3244,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 36.1,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "6-6-2018"
     },
@@ -3258,7 +3258,7 @@
       "AC": 0.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 35.2111111111,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "6-5-2018"
     },
@@ -3272,7 +3272,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "6-4-2018"
     },
@@ -3286,7 +3286,7 @@
       "AC": 1.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 30.8,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "6-3-2018"
     },
@@ -3300,7 +3300,7 @@
       "AC": 0.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 35.2111111111,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "6-2-2018"
     },
@@ -3314,7 +3314,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "6-1-2018"
     },
@@ -3328,7 +3328,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "5-31-2018"
     },
@@ -3342,7 +3342,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 36.1,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "5-30-2018"
     },
@@ -3356,7 +3356,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 36.1,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "5-29-2018"
     },
@@ -3370,7 +3370,7 @@
       "AC": 0.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "5-28-2018"
     },
@@ -3384,7 +3384,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.8444444444,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "5-27-2018"
     },
@@ -3398,7 +3398,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.8444444444,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "5-26-2018"
     },
@@ -3412,7 +3412,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "5-25-2018"
     },
@@ -3426,7 +3426,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "5-24-2018"
     },
@@ -3440,7 +3440,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "5-23-2018"
     },
@@ -3454,7 +3454,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "5-22-2018"
     },
@@ -3468,7 +3468,7 @@
       "AC": 0.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "5-21-2018"
     },
@@ -3496,7 +3496,7 @@
       "AC": 0.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "5-19-2018"
     },
@@ -3510,7 +3510,7 @@
       "AC": 0.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "5-18-2018"
     },
@@ -3524,7 +3524,7 @@
       "AC": 0.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "5-17-2018"
     },
@@ -3538,7 +3538,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "5-16-2018"
     },
@@ -3552,7 +3552,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "5-15-2018"
     },
@@ -3566,7 +3566,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "5-14-2018"
     },
@@ -3580,7 +3580,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "5-13-2018"
     },
@@ -3594,7 +3594,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "5-12-2018"
     },
@@ -3608,7 +3608,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "5-11-2018"
     },
@@ -3622,7 +3622,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "5-10-2018"
     },
@@ -3636,7 +3636,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0555555556,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "5-9-2018"
     },
@@ -3650,7 +3650,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "5-8-2018"
     },
@@ -3664,7 +3664,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 35.2111111111,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "5-7-2018"
     },
@@ -3678,7 +3678,7 @@
       "AC": 0.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "5-6-2018"
     },
@@ -3692,7 +3692,7 @@
       "AC": 0.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "5-5-2018"
     },
@@ -3706,7 +3706,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "5-4-2018"
     },
@@ -3720,7 +3720,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 35.2111111111,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "5-3-2018"
     },
@@ -3734,7 +3734,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "5-2-2018"
     },
@@ -3748,7 +3748,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "5-1-2018"
     },
@@ -3762,7 +3762,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "4-30-2018"
     },
@@ -3776,7 +3776,7 @@
       "AC": 0.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "4-29-2018"
     },
@@ -3790,7 +3790,7 @@
       "AC": 0.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 34.8444444444,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "4-28-2018"
     },
@@ -3804,7 +3804,7 @@
       "AC": 0.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "4-27-2018"
     },
@@ -3818,7 +3818,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "4-26-2018"
     },
@@ -3832,7 +3832,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 36.1,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "4-25-2018"
     },
@@ -3846,7 +3846,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 35.2111111111,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "4-24-2018"
     },
@@ -3860,7 +3860,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "4-23-2018"
     },
@@ -3874,7 +3874,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "4-22-2018"
     },
@@ -3888,7 +3888,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "4-21-2018"
     },
@@ -3902,7 +3902,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "4-20-2018"
     },
@@ -3916,7 +3916,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "4-19-2018"
     },
@@ -3930,7 +3930,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "4-18-2018"
     },
@@ -3958,7 +3958,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.8444444444,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "4-16-2018"
     },
@@ -3972,7 +3972,7 @@
       "AC": 1.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "4-15-2018"
     },
@@ -3986,7 +3986,7 @@
       "AC": 0.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "4-14-2018"
     },
@@ -4000,7 +4000,7 @@
       "AC": 0.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 30.8,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "4-13-2018"
     },
@@ -4014,7 +4014,7 @@
       "AC": 1.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 35.2111111111,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "4-12-2018"
     },
@@ -4028,7 +4028,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "4-11-2018"
     },
@@ -4042,7 +4042,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "4-10-2018"
     },
@@ -4056,7 +4056,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "4-9-2018"
     },
@@ -4070,7 +4070,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "4-8-2018"
     },
@@ -4084,7 +4084,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "4-7-2018"
     },
@@ -4098,7 +4098,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "4-6-2018"
     },
@@ -4112,7 +4112,7 @@
       "AC": 1.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "4-5-2018"
     },
@@ -4120,13 +4120,13 @@
       "distance": 12.4,
       "consume": 4.7,
       "speed": 43.0,
-      "temp_inside": 21.3333333333,
+      "temp_inside": 21.5,
       "temp_outside": 10.0,
       "gas_type": 0.0,
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "4-4-2018"
     },
@@ -4140,7 +4140,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "4-3-2018"
     },
@@ -4154,7 +4154,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "4-2-2018"
     },
@@ -4168,7 +4168,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "4-1-2018"
     },
@@ -4182,7 +4182,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "3-31-2018"
     },
@@ -4196,7 +4196,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "3-30-2018"
     },
@@ -4210,7 +4210,7 @@
       "AC": 0.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "3-29-2018"
     },
@@ -4224,7 +4224,7 @@
       "AC": 0.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "3-28-2018"
     },
@@ -4238,7 +4238,7 @@
       "AC": 0.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "3-27-2018"
     },
@@ -4252,7 +4252,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "3-26-2018"
     },
@@ -4266,7 +4266,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "3-25-2018"
     },
@@ -4294,7 +4294,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "3-23-2018"
     },
@@ -4308,7 +4308,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "3-22-2018"
     },
@@ -4322,7 +4322,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 31.9444444444,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "3-21-2018"
     },
@@ -4336,7 +4336,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "3-20-2018"
     },
@@ -4350,7 +4350,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 35.2111111111,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "3-19-2018"
     },
@@ -4364,7 +4364,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "3-18-2018"
     },
@@ -4378,7 +4378,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "3-17-2018"
     },
@@ -4392,7 +4392,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "3-16-2018"
     },
@@ -4406,7 +4406,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "3-15-2018"
     },
@@ -4420,7 +4420,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "3-14-2018"
     },
@@ -4434,7 +4434,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "3-13-2018"
     },
@@ -4448,7 +4448,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "3-12-2018"
     },
@@ -4462,7 +4462,7 @@
       "AC": 1.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "3-11-2018"
     },
@@ -4476,7 +4476,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "3-10-2018"
     },
@@ -4490,7 +4490,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "3-9-2018"
     },
@@ -4504,7 +4504,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "3-8-2018"
     },
@@ -4518,7 +4518,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "3-7-2018"
     },
@@ -4532,7 +4532,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "3-6-2018"
     },
@@ -4546,7 +4546,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "3-5-2018"
     },
@@ -4560,7 +4560,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "3-4-2018"
     },
@@ -4574,7 +4574,7 @@
       "AC": 1.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "3-3-2018"
     },
@@ -4588,7 +4588,7 @@
       "AC": 1.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "3-2-2018"
     },
@@ -4602,7 +4602,7 @@
       "AC": 0.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "3-1-2018"
     },
@@ -4616,7 +4616,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "2-28-2018"
     },
@@ -4630,7 +4630,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "2-27-2018"
     },
@@ -4644,7 +4644,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "2-26-2018"
     },
@@ -4658,7 +4658,7 @@
       "AC": 0.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 36.9111111111,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "2-25-2018"
     },
@@ -4672,7 +4672,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "2-24-2018"
     },
@@ -4686,7 +4686,7 @@
       "AC": 0.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "2-23-2018"
     },
@@ -4700,7 +4700,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "2-22-2018"
     },
@@ -4714,7 +4714,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "2-21-2018"
     },
@@ -4728,7 +4728,7 @@
       "AC": 0.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "2-20-2018"
     },
@@ -4742,7 +4742,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.9444444444,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "2-19-2018"
     },
@@ -4756,7 +4756,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "2-18-2018"
     },
@@ -4770,7 +4770,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "2-17-2018"
     },
@@ -4784,7 +4784,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "2-16-2018"
     },
@@ -4798,7 +4798,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "2-15-2018"
     },
@@ -4826,7 +4826,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "2-13-2018"
     },
@@ -4840,7 +4840,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "2-12-2018"
     },
@@ -4854,7 +4854,7 @@
       "AC": 1.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "2-11-2018"
     },
@@ -4868,7 +4868,7 @@
       "AC": 1.0,
       "rain": 1.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "2-10-2018"
     },
@@ -4882,7 +4882,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "2-9-2018"
     },
@@ -4896,7 +4896,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "2-8-2018"
     },
@@ -4910,7 +4910,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "2-7-2018"
     },
@@ -4924,7 +4924,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.8777777778,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "2-6-2018"
     },
@@ -4938,7 +4938,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "2-5-2018"
     },
@@ -4952,7 +4952,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "2-4-2018"
     },
@@ -4966,7 +4966,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 36.1,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "2-3-2018"
     },
@@ -4980,7 +4980,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "2-2-2018"
     },
@@ -4994,7 +4994,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "2-1-2018"
     },
@@ -5008,7 +5008,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-31-2018"
     },
@@ -5022,7 +5022,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-30-2018"
     },
@@ -5036,7 +5036,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-29-2018"
     },
@@ -5050,7 +5050,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-28-2018"
     },
@@ -5064,7 +5064,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-27-2018"
     },
@@ -5078,7 +5078,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-26-2018"
     },
@@ -5092,7 +5092,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-25-2018"
     },
@@ -5106,7 +5106,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-24-2018"
     },
@@ -5120,7 +5120,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0555555556,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-23-2018"
     },
@@ -5134,7 +5134,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0555555556,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-22-2018"
     },
@@ -5148,7 +5148,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.9444444444,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-21-2018"
     },
@@ -5162,7 +5162,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-20-2018"
     },
@@ -5176,7 +5176,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.8444444444,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-19-2018"
     },
@@ -5190,7 +5190,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-18-2018"
     },
@@ -5204,7 +5204,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 31.9444444444,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-17-2018"
     },
@@ -5218,7 +5218,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-16-2018"
     },
@@ -5232,7 +5232,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-15-2018"
     },
@@ -5246,7 +5246,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 35.2111111111,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-14-2018"
     },
@@ -5260,7 +5260,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-13-2018"
     },
@@ -5274,7 +5274,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-12-2018"
     },
@@ -5288,7 +5288,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-11-2018"
     },
@@ -5302,7 +5302,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-10-2018"
     },
@@ -5316,7 +5316,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.5,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-9-2018"
     },
@@ -5330,7 +5330,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-8-2018"
     },
@@ -5344,7 +5344,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-7-2018"
     },
@@ -5358,7 +5358,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-6-2018"
     },
@@ -5372,7 +5372,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 34.0222222222,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-5-2018"
     },
@@ -5386,7 +5386,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-4-2018"
     },
@@ -5400,7 +5400,7 @@
       "AC": 0.0,
       "rain": 0.0,
       "sun": 0.0,
-      "refill_liters": 33.6888888889,
+      "refill_liters": 0.0,
       "refill_gas": 0.0,
       "date": "1-3-2018"
     },

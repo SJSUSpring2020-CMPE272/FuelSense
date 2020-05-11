@@ -25,7 +25,7 @@ class TopNav extends React.Component {
             </div>
             <div className='col-xs-6'>
               <a href='index.html' className='navbar-brand navbar-brand-custom'>
-                <h3>FuelSense</h3>
+                <img src='img/index2.png' alt='Image Description' />
               </a>
             </div>
           </div>

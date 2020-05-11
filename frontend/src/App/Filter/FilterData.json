@@ -121,12 +121,12 @@
           "type": "radio",
           "filterContent": [
             {
-              "name": "Speed vs Consume",
+              "name": "Distance vs Consume",
               "abbreviation": "RV98",
               "disabled": false
             },
             {
-              "name": "Distance vs Consume",
+              "name": "Speed vs Consume",
               "abbreviation": "RV98",
               "disabled": false
             },
@@ -162,12 +162,12 @@
           "type": "radio",
           "filterContent": [
             {
-              "name": "Speed vs Consume",
+              "name": "Distance vs Consume",
               "abbreviation": "RV95",
               "disabled": false
             },
             {
-              "name": "Distance vs Consume",
+              "name": "Speed vs Consume",
               "abbreviation": "RV95",
               "disabled": false
             },
