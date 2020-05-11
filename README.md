@@ -32,19 +32,19 @@ https://www.kaggle.com/anderas/car-consume#measurements.csv
 
 #### 5D View of the Dataset to identify Data-Outliers
 
-<img src = "images/5D_plots.JPG" width="1000">
+<img src = "images/5D_plots_1.JPG" width="1000">
 
 #### Advanced Machine Learning analysis User Interface
 
-<img src = "images/Advanced_ML_predictions.jpg" width="1000">
+<img src = "images/Advanced_ML_predictions_1.jpg" width="1000">
 
 #### Time trending Analysis User Interface
 
-<img src = "images/Timetrending.jpg" width="1000">
+<img src = "images/Timetrending_1.jpg" width="1000">
 
 #### Fuel Type Analysis User Interface
 
-<img src = "images/Fuel_analysis.JPG" width="1000">
+<img src = "images/Fuel_analysis_1.JPG" width="1000">
 
 #### IBM Watson Chatbot screenshots
 
