@@ -87,7 +87,8 @@ class MainContainer extends React.Component {
       axisPoints11 = [],
       axisPoints12 = [];
     var flag = 0;
-    var TTrendDuration = props.filterValueTicked.SP95PRelation;
+    var TTrendDuration = props.filterValueTicked.SP95PDuration;
+    console.log(TTrendDuration);
     var date1;
     if (TTrendDuration === "90 Days/DCS95" || TTrendDuration === undefined)
       date1 = "10-23-2018";
@@ -174,8 +175,9 @@ class MainContainer extends React.Component {
       axisPoints11 = [],
       axisPoints12 = [];
     var flag = 0;
-    var MultiPDuration = props.filterValueTicked.SP95PRelation;
+    var MultiPDuration = props.filterValueTicked.SP95PDuration;
     var date1;
+    console.log(MultiPDuration);
     if (MultiPDuration === "90 Days/DCS95" || MultiPDuration === undefined)
       date1 = "10-23-2018";
     if (MultiPDuration === "30 Days/DCS95") date1 = "12-23-2018";
@@ -197,7 +199,7 @@ class MainContainer extends React.Component {
         refill_gas,
       }) => {
         if (flag == 0) {
-          if (gas_type == 1) {
+          if (gas_type === 1.0) {
             axisPoints1.push(speed);
             axisPoints2.push(distance);
             axisPoints3.push(consume);
@@ -214,9 +216,9 @@ class MainContainer extends React.Component {
             axisPoints10.push(refill_liters);
             axisPoints11.push(refill_gas);
             axisPoints12.push(date);
-            if (date == date1) {
-              flag = 1;
-            }
+          }
+          if (date == date1) {
+            flag = 1;
           }
         }
       }
@@ -252,31 +254,30 @@ class MainContainer extends React.Component {
   };
 
   componentWillReceiveProps(nextProps) {
-    var xlabel, ylabel, x, y, dot;
-    console.log("xyz");
-    var MultiPDuration = nextProps.filterValueTicked.SP95PDuration;
-    var MultiPRelation = nextProps.filterValueTicked.SP95PRelation;
-    this.setState({ MultiPDuration: MultiPDuration });
-    this.setState({ MultiPRelation: MultiPRelation });
+    var xlabel, ylabel, x, y;
+    var SP95PDuration = nextProps.filterValueTicked.SP95PDuration;
+    var SP95PRelation = nextProps.filterValueTicked.SP95PRelation;
+    this.setState({ MultiPDuration: SP95PDuration });
+    this.setState({ MultiPRelation: SP95PRelation });
 
-    if (MultiPDuration == "90 Days/DCS95" || MultiPDuration == undefined) {
+    if (SP95PDuration == "90 Days/DCS95" || SP95PDuration == undefined) {
       const newLayout = Object.assign({}, this.state.layout);
       newLayout.datarevision++;
       this.setState({ layout: newLayout });
     }
-    if (MultiPDuration == "30 Days/DCS95") {
+    if (SP95PDuration == "30 Days/DCS95") {
       const newLayout = Object.assign({}, this.state.layout);
       newLayout.datarevision++;
       this.setState({ layout: newLayout });
     }
-    if (MultiPDuration == "1 Year/DCS95" || MultiPDuration == undefined) {
+    if (SP95PDuration == "1 Year/DCS95") {
       const newLayout = Object.assign({}, this.state.layout);
       newLayout.datarevision++;
       this.setState({ layout: newLayout });
     }
     if (
-      MultiPRelation == "Distance vs Consume/RV95" ||
-      MultiPRelation == undefined
+      SP95PRelation == "Distance vs Consume/RV95" ||
+      SP95PRelation == undefined
     ) {
       const newLayout = Object.assign({}, this.state.layout);
       newLayout.datarevision++;
@@ -286,7 +287,7 @@ class MainContainer extends React.Component {
       xlabel = "Distance";
       ylabel = "Consume";
     }
-    if (MultiPRelation == "Speed vs Consume/RV95") {
+    if (SP95PRelation == "Speed vs Consume/RV95") {
       const newLayout = Object.assign({}, this.state.layout);
       newLayout.datarevision++;
       this.setState({ layout: newLayout });
@@ -295,7 +296,7 @@ class MainContainer extends React.Component {
       xlabel = "Speed";
       ylabel = "Consume";
     }
-    if (MultiPRelation == "Temp vs Consume/RV95") {
+    if (SP95PRelation == "Outside Temp vs Consume/RV95") {
       const newLayout = Object.assign({}, this.state.layout);
       newLayout.datarevision++;
       this.setState({ layout: newLayout });
@@ -327,7 +328,7 @@ class MainContainer extends React.Component {
     this.setState({
       data: [
         {
-          x: this.getDataX(this.props, 1),
+          x: this.getDataX(this.props, 2),
           y: this.getDataY(this.props, 3),
           type: "scatter",
           mode: "markers",
@@ -335,8 +336,8 @@ class MainContainer extends React.Component {
       ],
       layout: [
         {
-          title: "Distance vs Consume",
-          xaxis: { title: "Distance" },
+          title: "Speed vs Consume",
+          xaxis: { title: "Speed" },
           yaxis: { title: "Consume" },
         },
       ],
@@ -346,7 +347,7 @@ class MainContainer extends React.Component {
   render() {
     return (
       <div className='col-lg-10 col-md-9 col-sm-12 col-xs-12' id=''>
-        <div className='row'>
+        <div className='row' style={{ paddingBottom: "10px" }}>
           <div
             className='col-lg-12 col-md-12 col-sm-12 col-xs-12 GraphClassExt'
             id=''
@@ -356,76 +357,6 @@ class MainContainer extends React.Component {
               layout={this.state.layout[0]}
               getId={this.getId}
             />
-          </div>
-        </div>
-        <div className='row' style={{ paddingBottom: "10px" }}>
-          <div
-            className='col-lg-12 col-md-12 col-sm-12 col-xs-12 TableClassExt table-responsive'
-            id=''
-          >
-            <table class='table'>
-              <thead class='thead-light'>
-                <tr>
-                  <th>Message</th>
-                  <th>Feedback</th>
-                  <th>Comment</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>RPM is higher than expected</td>
-                  <td>
-                    <input name='Correct' type='radio' />
-                    <label for='Correct'>Correct</label>
-                    <br />
-                    <input name='Correct' type='radio' />
-                    <label for='Correct'>Incorrect</label>
-                  </td>
-                  <td>
-                    <textarea></textarea>
-                  </td>
-                </tr>
-                <tr>
-                  <td>Fuel Consumption is higher than expected</td>
-                  <td>
-                    <input name='Correct' type='radio' />
-                    <label for='Correct'>Correct</label>
-                    <br />
-                    <input name='Correct' type='radio' />
-                    <label for='Correct'>Incorrect</label>
-                  </td>
-                  <td>
-                    <textarea></textarea>
-                  </td>
-                </tr>
-                <tr>
-                  <td>Slip is lower than expected</td>
-                  <td>
-                    <input name='Correct' type='radio' />
-                    <label for='Correct'>Correct</label>
-                    <br />
-                    <input name='Correct' type='radio' />
-                    <label for='Correct'>Incorrect</label>
-                  </td>
-                  <td>
-                    <textarea></textarea>
-                  </td>
-                </tr>
-                <tr>
-                  <td>Slip is lower than expected</td>
-                  <td>
-                    <input name='Correct' type='radio' />
-                    <label for='Correct'>Correct</label>
-                    <br />
-                    <input name='Correct' type='radio' />
-                    <label for='Correct'>Incorrect</label>
-                  </td>
-                  <td>
-                    <textarea></textarea>
-                  </td>
-                </tr>
-              </tbody>
-            </table>
           </div>
         </div>
       </div>

@@ -43,7 +43,7 @@ class PlotApp extends React.Component {
           z: this.getData("z"),
           type: "scatter3d",
           mode: "markers",
-          name: "Regular",
+          name: "Refill days",
           marker: {
             symbol: this.getData("z2"),
             size: this.getData("z1"),
@@ -67,7 +67,7 @@ class PlotApp extends React.Component {
               data={this.state.data}
               layout={{
                 title:
-                  "Dataoutlier - 5D Plot <br> Red:Refuel, Sphere:SP95 E10, Diamond:SP98",
+                  "Dataoutlier - 5D Plot <br> Blue:Regular Days, Sphere:SP95 E10, Diamond:SP98",
                 showlegend: true,
                 scene: {
                   xaxis: { title: { text: "Fuel" } },

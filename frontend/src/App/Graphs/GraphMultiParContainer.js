@@ -32,13 +32,13 @@ class MainContainer extends React.Component {
       ],
       frames: [],
       config: {},
-      valueSpeed: null,
-      valueDistance: null,
-      valueTemp: null,
-      valueAC: null,
-      valueRain: null,
-      valueSun: null,
-      valueType: null,
+      valueSpeed: 10,
+      valueDistance: 10,
+      valueTemp: 10,
+      valueAC: 1,
+      valueRain: 1,
+      valueSun: 1,
+      valueType: 1,
       boolSpeed: true,
       boolDistance: true,
       boolTemp: true,
@@ -75,7 +75,7 @@ class MainContainer extends React.Component {
       ylabel = "Consume";
       model = "tempcons";
     }
-    var string = "http://localhost:5000/addroute?";
+    var string = "http://184.172.252.83:32374/addroute?";
     string =
       string +
       "model=" +
@@ -89,9 +89,9 @@ class MainContainer extends React.Component {
       "&speed=" +
       this.state.valueSpeed +
       "&temp_inside=" +
-      this.state.valueTemp +
-      "&temp_outside=" +
       "" +
+      "&temp_outside=" +
+      this.state.valueTemp +
       "&gas_type=" +
       this.state.valueType;
     string =
@@ -142,8 +142,8 @@ class MainContainer extends React.Component {
         });
         console.log(x);
         console.log(y_org);
-      } else if (res.data.validation == false) {
-        alert(res.data.validation_errors);
+      } else {
+        alert(res.data.message);
       }
     });
   };
@@ -363,7 +363,7 @@ class MainContainer extends React.Component {
   };
 
   componentWillReceiveProps(nextProps) {
-    var xlabel, ylabel, x, y, dot;
+    var xlabel, ylabel, x, y, dot, title;
     var MultiPDuration = nextProps.filterValueTicked.MultiPDuration;
     var MultiPRelation = nextProps.filterValueTicked.MultiPRelation;
     var MultiPPeriod = nextProps.filterValueTicked.MultiPPeriod;
@@ -390,24 +390,28 @@ class MainContainer extends React.Component {
       newLayout.datarevision++;
       this.setState({ layout: newLayout });
       dot = 7;
+      title = "Blue: AC; Red: Non-AC";
     }
     if (MultiPPeriod == "Fuel Type/MPCP") {
       const newLayout = Object.assign({}, this.state.layout);
       newLayout.datarevision++;
       this.setState({ layout: newLayout });
       dot = 6;
+      title = "Blue: SP 95 E10; Red: SP 98";
     }
     if (MultiPPeriod == "Rain/MPCP") {
       const newLayout = Object.assign({}, this.state.layout);
       newLayout.datarevision++;
       this.setState({ layout: newLayout });
       dot = 8;
+      title = "Blue: Rain; Red: No-Rain";
     }
     if (MultiPPeriod == "Sun/MPCP") {
       const newLayout = Object.assign({}, this.state.layout);
       newLayout.datarevision++;
       this.setState({ layout: newLayout });
       dot = 9;
+      title = "Blue: Sun; Red: No-Sun";
     }
     if (
       MultiPRelation == "Distance vs Consume/MPRV" ||
@@ -451,7 +455,7 @@ class MainContainer extends React.Component {
       ],
       layout: [
         {
-          title: xlabel + " vs " + ylabel,
+          title: xlabel + " vs " + ylabel + "<br>" + title,
           xaxis: { title: xlabel },
           yaxis: { title: ylabel },
         },
@@ -472,7 +476,7 @@ class MainContainer extends React.Component {
       ],
       layout: [
         {
-          title: "Distance vs Consume",
+          title: "Distance vs Consume <br> Blue: SP 95 E10; Red: SP 98",
           xaxis: { title: "Distance" },
           yaxis: { title: "Consume" },
         },
@@ -499,7 +503,7 @@ class MainContainer extends React.Component {
           ),
         });
         break;
-      case "temp":
+      case "temp_outside":
         this.setState({
           boolTemp: this.checkTrueFalse(
             this.state.boolTemp,
@@ -507,7 +511,7 @@ class MainContainer extends React.Component {
           ),
         });
         break;
-      case "type":
+      case "gas_type":
         this.setState({
           boolType: this.checkTrueFalse(
             this.state.boolType,
@@ -515,7 +519,7 @@ class MainContainer extends React.Component {
           ),
         });
         break;
-      case "ac":
+      case "AC":
         this.setState({
           boolAC: this.checkTrueFalse(this.state.boolAC, e.currentTarget.value),
         });
@@ -625,7 +629,7 @@ class MainContainer extends React.Component {
                     class='form-check-input'
                     type='checkbox'
                     id='inlineCheckbox3'
-                    value='temp'
+                    value='temp_outside'
                     onClick={this.disablenable}
                   />
                   <label class='form-check-label' for='inlineCheckbox3'>
@@ -637,7 +641,7 @@ class MainContainer extends React.Component {
                     class='form-check-input'
                     type='checkbox'
                     id='inlineCheckbox4'
-                    value='type'
+                    value='gas_type'
                     onClick={this.disablenable}
                   />
                   <label class='form-check-label' for='inlineCheckbox3'>
@@ -649,7 +653,7 @@ class MainContainer extends React.Component {
                     class='form-check-input'
                     type='checkbox'
                     id='inlineCheckbox5'
-                    value='ac'
+                    value='AC'
                     onClick={this.disablenable}
                   />
                   <label class='form-check-label' for='inlineCheckbox3'>
@@ -729,7 +733,7 @@ class MainContainer extends React.Component {
                     name='TypeOptions'
                     type='radio'
                     id='inlineRadio5'
-                    value='SP98'
+                    value={0}
                     disabled={this.state.boolType}
                     onClick={this.onRadioClick}
                   />
@@ -743,7 +747,7 @@ class MainContainer extends React.Component {
                     name='TypeOptions'
                     type='radio'
                     id='inlineRadio6'
-                    value='SP95'
+                    value={1}
                     disabled={this.state.boolType}
                     onClick={this.onRadioClick}
                   />
@@ -760,7 +764,7 @@ class MainContainer extends React.Component {
                     name='ACOptions'
                     type='radio'
                     id='inlineRadio7'
-                    value='AC'
+                    value={1}
                     disabled={this.state.boolAC}
                     onClick={this.onRadioClick1}
                   />
@@ -774,7 +778,7 @@ class MainContainer extends React.Component {
                     name='ACOptions'
                     type='radio'
                     id='inlineRadio6'
-                    value='NonAC'
+                    value={0}
                     disabled={this.state.boolAC}
                     onClick={this.onRadioClick1}
                   />
@@ -791,7 +795,7 @@ class MainContainer extends React.Component {
                     name='RainOptions'
                     type='radio'
                     id='inlineRadio5'
-                    value='Rain'
+                    value={1}
                     disabled={this.state.boolRain}
                     onClick={this.onRadioClick2}
                   />
@@ -805,7 +809,7 @@ class MainContainer extends React.Component {
                     name='RainOptions'
                     type='radio'
                     id='inlineRadio6'
-                    value='NoRain'
+                    value={0}
                     disabled={this.state.boolRain}
                     onClick={this.onRadioClick2}
                   />
@@ -822,7 +826,7 @@ class MainContainer extends React.Component {
                     name='SunOptions'
                     type='radio'
                     id='inlineRadio5'
-                    value='Sun'
+                    value={1}
                     disabled={this.state.boolSun}
                     onClick={this.onRadioClick3}
                   />
@@ -836,7 +840,7 @@ class MainContainer extends React.Component {
                     name='SunOptions'
                     type='radio'
                     id='inlineRadio6'
-                    value='NoSun'
+                    value={0}
                     disabled={this.state.boolSun}
                     onClick={this.onRadioClick3}
                   />

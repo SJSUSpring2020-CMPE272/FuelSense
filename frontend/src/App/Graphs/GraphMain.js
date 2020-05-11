@@ -14,9 +14,9 @@ class GraphContainer extends React.Component {
     } else if (this.props.filterId == 1) {
       return <GraphMultiCon filterValueTicked={this.props.filterValueTicked} />;
     } else if (this.props.filterId == 3) {
-      return <GraphSP95Con filterValueTicked={this.props.filterValueTicked} />;
-    } else if (this.props.filterId == 4) {
       return <GraphSP98Con filterValueTicked={this.props.filterValueTicked} />;
+    } else if (this.props.filterId == 4) {
+      return <GraphSP95Con filterValueTicked={this.props.filterValueTicked} />;
     } else return <div className='coming-soon'></div>;
   }
 }
